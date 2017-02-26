@@ -1,0 +1,20 @@
+.table>tbody>tr>td{
+	font-size: 12px;
+}
+#user-profile>tbody>tr>td, 
+#user-profile>tbody>tr>th, 
+#user-profile>tfoot>tr>td, 
+#user-profile>tfoot>tr>th, 
+#user-profile>thead>tr>td, 
+#user-profile>thead>tr>th {
+	border: none !important;
+}
+#pay-detail>tbody>tr>th, #pay-detail>tbody>tr>td {
+	text-align: center;
+}
+.txt-title {
+	font-weight: bold;
+}
+.bk-ccc {
+	background-color: rgba(204,204,204,0.4);
+}
